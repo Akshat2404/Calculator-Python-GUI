@@ -6,5 +6,4 @@ User can input the simple mathematical equation and get the desired output.
 
 ![image](https://user-images.githubusercontent.com/60111945/170981185-a30be07a-838c-4e9e-a48f-0796e8b4d950.png)
 
-
 I have used the **Tkinter** module for the Python GUI.
